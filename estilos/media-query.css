@@ -15,6 +15,7 @@ Telas extragrandes, TV: 1201px
 
     section#login {
         width: 80vw;
+        height: 290px;
     }
 
     section#login >div#imagem {
@@ -36,6 +37,7 @@ Telas extragrandes, TV: 1201px
 
     section#login {
         width: 739px;
+        height: 340px;
     }
 
     section#login > div#imagem {
@@ -55,5 +57,6 @@ Telas extragrandes, TV: 1201px
 
     div#formulario > p {
         font-size: 1.2em;
+        margin: 20px 0px;
     }
 }
